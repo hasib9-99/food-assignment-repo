@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+.orange-color{
+    color: orange;
+}
+.frist-section{
+    display: flex;
+    padding-bottom: 150px;
+}
+.frist-part{
+    width: 50%;
+    margin: 5%;
+    font-size: 30px;
+    color: rgb(70, 70, 70);
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 100px;  
+}
